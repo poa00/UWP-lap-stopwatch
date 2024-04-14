@@ -1,6 +1,6 @@
-![app-logo](https://camo.githubusercontent.com/137100898759510dbb06006fa8b5062fc8a8874bc925c8e4c564bbe65d2d289c/68747470733a2f2f692e6c6f6c692e6e65742f323032302f30372f30382f68424e4c57354837596c4a66715a462e706e67 "logo")
 
-# Work timer
+
+# Work timer ![app-logo](https://camo.githubusercontent.com/137100898759510dbb06006fa8b5062fc8a8874bc925c8e4c564bbe65d2d289c/68747470733a2f2f692e6c6f6c692e6e65742f323032302f30372f30382f68424e4c57354837596c4a66715a462e706e67 "logo")
 
 The app was supposed to be made for my actual work needs, and when I made it, I found that it wasn't as good as I thought it would be, but it helped others because I didn't think of it.
 
